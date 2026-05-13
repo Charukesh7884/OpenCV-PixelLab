@@ -49,7 +49,7 @@ This project demonstrates several important computer vision concepts:
 | Anaconda Navigator | Environment and package management |
 
 ---
-# ▶️ Running the Project
+# Running the Project
 
 Launch Jupyter Notebook:
 
